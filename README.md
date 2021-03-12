@@ -12,6 +12,7 @@ PD: is not the best UI, but I think that it is a good example of the implementat
 <p float="left">
 <img src="https://github.com/WilliBobadilla/telegramCloneUI/blob/master/screenshots/1.png"  width="25%" height="35%" />
 <img src="https://github.com/WilliBobadilla/telegramCloneUI/blob/master/screenshots/2.png"  width="25%" height="35%" />
+<img src="https://github.com/WilliBobadilla/telegramCloneUI/blob/master/screenshots/3.png"  width="25%" height="35%" />
 </p>
 
 ## License
